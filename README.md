@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Social Media:</h2>
+<h3 align="left">Social Media:</h3>
 
 ###
 
