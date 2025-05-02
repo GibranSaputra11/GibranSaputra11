@@ -1,12 +1,10 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GibranSaputra11.GibranSaputra11&right_color=dodgerblue&left_text=%F0%9F%A7%AD%20Explorer"  />
+
 <h1 align="left">Hi 👋, I'm Gibran Saputra</h1>
 
-###
+### 
 
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm03djhobmN1d2VhbGo1ZzVncXdocWlpYzZhOWNpc3NoY2phYWMybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GibranSaputra11.GibranSaputra11&right_color=dodgerblue&left_text=%F0%9F%A7%AD%20Explorer"  />
 
 ###
 
